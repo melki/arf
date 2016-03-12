@@ -3,7 +3,7 @@
 ##modèles étudiés:
 
 * naive bayes
-* nrbres de décision
+* arbres de décision
 * k nearest neighbors
 * perceptron
 * réseau de neurones
