@@ -8,6 +8,7 @@
 * perceptron
 * réseau de neurones
 
+##fichiers:
 
 **models.ipynb**: scripts des différents modèles utilisés.
 
