@@ -9,7 +9,7 @@
 * réseau de neurones
 
 
-** models.ipynb**: scripts des différents modèles utilisés.
+**models.ipynb**: scripts des différents modèles utilisés.
 
 **rapport.ipynb**: Rapport de l'expérimentation menée sur des données bi-dimensionnelles. Cas d'usage sur les données de Titanic dans de prédire les survivants. Comparaison et confrontation des différentes méthodes et modèles.
 
